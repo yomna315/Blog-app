@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "email": "bamyxyqo@mailinator.com",
+      "password": "$2a$10$d8HofQv5xlnVQ6YRMqRDverlOQswmCIcrA5gFzlmhjMIYfqiPfU66",
+      "name": "Cade Shannon",
+      "id": 1
+    },
+    {
+      "email": "tapocy@mailinator.com",
+      "password": "$2a$10$usLYLC/V0pMoBbBsFXNEbe17.dfH4SFHPdYyN1I1snjuV6bk6VQRa",
+      "name": "Hermione Daniel",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "title": "Similique officiis r",
+      "description": "Sit pariatur Duis a",
+      "imageUrl": "https://www.cefexylinog.mobi",
+      "author": "Cade Shannon",
+      "userId": 1,
+      "createdAt": "2026-05-14T22:54:06.712Z",
+      "id": 1
+    },
+    {
+      "title": "Odio fugiat molesti5h45yh",
+      "description": "Occaecat proident o",
+      "imageUrl": "https://www.vilykonoti.ca",
+      "author": "Cade Shannon",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "title": "Recusandae Et deser",
+      "description": "Sunt sint totam do h",
+      "imageUrl": "https://www.busec.ca",
+      "author": "Cade Shannon",
+      "userId": 1,
+      "createdAt": "2026-05-14T22:54:51.904Z",
+      "id": 4
+    },
+    {
+      "title": "Dolore doloremque es",
+      "description": "Laudantium qui pari",
+      "imageUrl": "https://www.pefavucafodabud.org.au",
+      "author": "Cade Shannon",
+      "userId": 1,
+      "createdAt": "2026-05-14T22:54:58.559Z",
+      "id": 5
+    },
+    {
+      "title": "Dolorum commodi volu",
+      "description": "Et dolor aut qui eli",
+      "imageUrl": "https://www.xixadudodoqywym.ws",
+      "author": "Hermione Daniel",
+      "userId": 2,
+      "createdAt": "2026-05-14T22:55:39.334Z",
+      "id": 7
+    }
+  ]
+}
